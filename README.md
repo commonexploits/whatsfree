@@ -13,7 +13,7 @@ You do not need to set an IP address, just run this simple script and it will wo
 
 Developed by Daniel Compton
 
-https://github.com/commonexploits/dtpscan
+https://github.com/commonexploits/whatsfee
 
 Released under AGPL see LICENSE for more information
 
